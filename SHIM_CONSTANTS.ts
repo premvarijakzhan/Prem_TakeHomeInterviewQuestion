@@ -1,0 +1,3 @@
+// SHIM_CONSTANTS.ts
+export const ARBITRARY_COMPONENT_FOLDER_PATH = '.';
+export const FIREJET_SAVE_DATA_PATH = '.';
