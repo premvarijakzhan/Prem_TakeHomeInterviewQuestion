@@ -1,1 +1,1 @@
-This is a Take Home Assignment and it contains the work for the first question and then the additional question as pdf. 
+This is a Take Home Assignment and it contains the work for the first question and then the additional question as pdf. For the first question it will create a file called output and also console.logs in the terminal. Can use yarn start.
